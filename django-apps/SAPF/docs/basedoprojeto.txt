@@ -1,0 +1,11 @@
+Os links e plataformas nesse arquivo foram de utilidade para o desenvolvimento do projeto.
+
+Link do Figma:
+
+https://www.figma.com/file/gJTH9HnPLFlstRPxJQcNX6/Apar%C3%AAncia-do-SADPE?node-id=0%3A1
+
+Link do w3school:
+
+https://www.w3schools.com/html/html_paragraphs.asp
+
+
