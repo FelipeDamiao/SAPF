@@ -8,4 +8,10 @@ Link do w3school:
 
 https://www.w3schools.com/html/html_paragraphs.asp
 
+Link do Planilhas Google:
 
+https://docs.google.com/spreadsheets/d/1SGJQkXBKnrPTQNxrnFYkNKaQKGQWwiPaca-_1ikhn74/edit?usp=sharing
+
+Link dos demais arquivos do projeto:
+
+https://drive.google.com/drive/folders/1wVMqQVwXNhBKUGu37106ycJ0emgnCSSJ?usp=drive_link
